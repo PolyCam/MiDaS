@@ -10,7 +10,7 @@ dependencies = [
   "torchvision >= 0.14.0",
   "numpy >= 1.23.4",
   "opencv-python >= 4.6.0.66",
-  "timm >= 0.6.12",
+  "timm == 0.6.12",
 ]
 
 [tool.setuptools]
